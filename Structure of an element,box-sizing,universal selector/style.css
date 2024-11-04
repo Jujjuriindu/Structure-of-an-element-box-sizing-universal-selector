@@ -1,0 +1,145 @@
+#aboutCricket {
+  background-color: red;
+  border: 10px solid black;
+  border-radius: 30px;
+  text-align: center;
+  box-shadow: 10px 10px 10px black;
+  font-size: 3rem;
+}
+
+#abhi {
+  border: 10px solid brown;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  margin: 15px;
+  background-color: green;
+}
+
+#bumrah {
+  border: 10px dashed brown;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  margin: 15px;
+  background-color: chocolate;
+}
+
+#dhoni {
+  border: 10px dotted brown;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  margin: 15px;
+  background-color: yellow;
+}
+
+#gill {
+  border: 10px groove brown;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  margin: 15px;
+  background-color: palevioletred;
+}
+
+#nitish {
+  border: 10px ridge brown;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  margin: 15px;
+  background-color: yellowgreen;
+}
+
+#pathi {
+  border: 10px inset brown;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  margin: 15px;
+  background-color: blue;
+}
+
+#rohit {
+  border: 10px outset brown;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  margin: 15px;
+  background-color: olivedrab;
+}
+
+#shami {
+  border: 10px double brown;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  margin: 15px;
+  background-color: cornflowerblue;
+}
+
+#siraj {
+  border: 10px dotted brown;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  margin: 15px;
+  background-color: aquamarine;
+}
+
+#viart {
+  border: 10px solid brown;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  margin: 15px;
+  background-color: darkblue;
+}
+
+#dhoni1 {
+  border: 10px groove black;
+  background-color: yellow;
+  border-radius: 20px;
+  width: 200px;
+  height: 200px;
+  padding: 40px;
+  box-sizing: content-box;
+  margin: 20px;
+}
+
+#siraj1 {
+  border: 10px ridge black;
+  background-color: blue;
+  border-radius: 20px;
+  width: 200px;
+  height: 200px;
+  padding: 40px;
+  box-sizing: border-box;
+  margin: 20px;
+}
+
+#pathi1 {
+  border: 10px ridge black;
+  background-color: yellow;
+  border-radius: 20px;
+  width: 200px;
+  height: 200px;
+  padding: 40px;
+  box-sizing: content-box;
+  margin: 20px;
+}
+
+#backgroundColor {
+  background-color: lightcyan;
+}
+
+#backgroundColor1 {
+  background-color: lightpink;
+}
+
+/* *{
+    box-sizing: border-box;
+    padding: 5px;
+    margin: 5px;
+} */
